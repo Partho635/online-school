@@ -74,13 +74,13 @@ header{
 .topic-row{
   background: #F8FFFB;
   border-radius: 10px;
-  transition: all 0.4s ease;
+  transition: all 0.3s ease;
   margin-top: 35px;
 }
 .topic-row:hover{
   transform: scale(1.1);
   background: #fff;
-  box-shadow: 0 0 20px #dfd6d6;
+  box-shadow: 0 0 20px #524e4e;
 }
 .courses{
   min-height: 50vh;

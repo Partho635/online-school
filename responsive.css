@@ -1,0 +1,41 @@
+@media (max-width: 768px){
+  .topic-row{
+    width: 42% !important;
+    margin: auto !important;
+    margin-bottom: 40px !important;
+  }
+  .course-row{
+    width: 80% !important;
+    margin: auto !important;
+    margin-bottom: 50px !important;
+  }
+  .navbar{
+    background: #21B573;
+  }
+  .fa-bars{
+    color: #fff;
+    padding: 3px;
+    font-size: 25px;
+  }
+  .navbar-nav{
+    display: inline-block;
+  }
+  .nav-link{
+    color: #fff !important;
+  }
+  .primary-btn{
+    border: 2px solid #fff;
+  }
+  .primary-btn:hover{
+    color: #21B573;
+    background: #fff;
+    border: 2px solid #21B573;
+  }
+}
+@media (max-width: 576px){
+  .topic-row{
+    width: 60% !important;
+    margin: auto !important;
+    margin-bottom: 50px !important;
+  }
+}

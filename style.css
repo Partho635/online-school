@@ -75,8 +75,6 @@ header{
   background: #F8FFFB;
   border-radius: 10px;
   transition: all 0.4s ease;
-  margin-right: 18px;
-  width: 22% !important;
   margin-top: 35px;
 }
 .topic-row:hover{

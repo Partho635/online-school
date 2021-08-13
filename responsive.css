@@ -1,4 +1,15 @@
-@media (max-width: 768px){
+@media(max-width: 992px){
+  header{
+    min-height: 50vh;
+  }
+  .head-cont-d{
+    width: 90% !important;
+    margin: auto;
+    margin-bottom: 50px;
+  }
+  .topic{
+    min-height: 30vh;
+  }
   .topic-row{
     width: 42% !important;
     margin: auto !important;
@@ -31,11 +42,36 @@
     background: #fff;
     border: 2px solid #21B573;
   }
+  .testi-cont{
+    flex-wrap: wrap;
+  }
+  .testi-img{
+    width: 30% !important;
+    margin: auto;
+  }
+  .testi-desc{
+    margin-top: 30px;
+  }
 }
 @media (max-width: 576px){
   .topic-row{
     width: 60% !important;
     margin: auto !important;
     margin-bottom: 50px !important;
+  }
+  .topic-cont h1{
+    font-size: 22px;
+  }
+  .topic-cont p{
+    font-size: 15px;
+  }
+  .course-cont h2{
+    font-size: 20px;
+  }
+  .course-cont h5{
+    font-size: 13px;
+  }
+  .course-foot h5{
+    font-size: 10px;
   }
 }

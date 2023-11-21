@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-weight: 700;
+}
+.logo{
+    width: 200px;
+}
+.button{
+    padding: 6px 20px;
+    text-align: center;
+}
+.navbar-nav > .nav-item{
+    margin-right: 20px;
+}
+header{
+    background: #F0FFF0;
+}
+.hero{
+    padding: 20px;
+}
+.hero img{
+    width: 100%;
+}
+.hero span{
+    color: #198754;
+}
